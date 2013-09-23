@@ -8,10 +8,6 @@
 		{
 			"follow_symlinks": true,
 			"path": "/Users/mr/Desktop/git repos/dotfiles-bynens"
-		},
-		{
-			"follow_symlinks": true,
-			"path": "/Users/mr/Desktop/git repos/dotfiles-cowboy"
 		}
 	]
 }
